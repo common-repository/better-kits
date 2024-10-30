@@ -1,0 +1,110 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: Better Kits\n"
+"POT-Creation-Date: 2021-07-17 01:10+0200\n"
+"PO-Revision-Date: 2021-07-17 01:10+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: better-kits.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: classes/better-kits-classes.php:45
+msgid "A new Better Kits"
+msgstr ""
+
+#: classes/better-kits-classes.php:46
+msgid "Awesome Better Kits"
+msgstr ""
+
+#: classes/better-kits-classes.php:71
+msgid ", "
+msgstr ""
+
+#: classes/better-kits-classes.php:137
+msgid "Install and activate"
+msgstr ""
+
+#: classes/better-kits-classes.php:152
+msgid "Activate"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+#: classes/better-kits-classes.php:267 classes/better-kits-classes.php:268
+#: classes/class-better-kits-module.php:74
+#: classes/views/templates-page-tpl.php:27
+msgid "Better Kits"
+msgstr ""
+
+#: classes/builders/class-elementor-full-width-templates.php:107
+#: classes/builders/class-elementor-full-width-templates.php:119
+msgid "Cheatin&#8217; huh?"
+msgstr ""
+
+#: classes/class-better-kits-module.php:25
+msgid "Better Kits Template Directory Module"
+msgstr ""
+
+#: classes/class-better-kits-module.php:26
+msgid ""
+"The awesome template directory is aiming to provide a wide range of "
+"templates that you can import straight into your website."
+msgstr ""
+
+#: classes/class-full-width-templates.php:42
+msgid "Page Builder - Full Width - Blank"
+msgstr ""
+
+#: classes/views/templates-page-tpl.php:136
+msgid "Close"
+msgstr ""
+
+#: classes/views/templates-page-tpl.php:159
+msgid "Tags"
+msgstr ""
+
+#: classes/views/templates-page-tpl.php:166
+msgid "Required Plugins"
+msgstr ""
+
+#: classes/views/templates-page-tpl.php:196
+msgid "Preview"
+msgstr ""
+
+#: classes/views/templates-page-tpl.php:200 classes/views/templates-tpl.php:60
+msgid "Import"
+msgstr ""
+
+#: classes/views/templates-tpl.php:86
+msgid "Required Plugins : "
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "https://www.kitforest.com/better-kits/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Better Kits is an Elementor templates library and allows you to select from "
+"over 100s of designs to choose from."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Smart Innovates"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://www.kitforest.com/"
+msgstr ""
